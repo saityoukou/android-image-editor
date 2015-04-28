@@ -37,7 +37,7 @@ public class ImageEditorActivity extends Activity {
     private static final int ORIGINAL_SIZE_ITEM_ID = 9;
 
 
-    int chekk = 0;
+    int chekk = 33333;
     
     private static final int SELECT_PICTURE_REQUEST_CODE = 0;
 	
