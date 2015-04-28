@@ -35,6 +35,9 @@ public class ImageEditorActivity extends Activity {
     private static final int SCROLL_MENU_ITEM_ID = 7;
     private static final int FIT_TO_SCREEN_ITEM_ID = 8;
     private static final int ORIGINAL_SIZE_ITEM_ID = 9;
+
+
+    int chekk = 0;
     
     private static final int SELECT_PICTURE_REQUEST_CODE = 0;
 	
