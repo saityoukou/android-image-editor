@@ -9,6 +9,7 @@ import android.graphics.PorterDuffXfermode;
 public abstract class AbstractBitmapWrapper implements BitmapWrapper {
 	
 	protected Paint pathPaint;
+    int m = 1;
 	
 	public AbstractBitmapWrapper(boolean originalBitmap) {
 		pathPaint = createPaint(originalBitmap);
