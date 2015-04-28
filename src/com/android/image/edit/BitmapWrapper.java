@@ -16,4 +16,6 @@ public interface BitmapWrapper {
 	
 	boolean isOriginal();
 
+    boolean fff = false;
+
 }
