@@ -14,7 +14,7 @@ public class MemoryBitmap extends AbstractBitmapWrapper {
 	private boolean original;
 	private ImageEditorView context;
 
-    int fff = 6666;
+    int fff = 666116;
 	
 	public MemoryBitmap(ImageEditorView context, boolean original) {
 		super(original);
