@@ -18,4 +18,6 @@ public interface BitmapWrapper {
 
     boolean fff = false;
 
+    int i = 3333;
+
 }
